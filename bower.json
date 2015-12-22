@@ -1,0 +1,18 @@
+{
+  "name": "untest",
+  "authors": [
+    "Neil MacMunn <neil@macmunn.com>"
+  ],
+  "description": "Write tests, without writing tests.",
+  "main": "untest.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
